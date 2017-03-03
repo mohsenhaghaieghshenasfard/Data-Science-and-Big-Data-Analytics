@@ -1,6 +1,6 @@
 
 
-FROM ubuntu:14:04
+FROM debian
 MAINTAINER Docker Workshop <mohsen@gwdg.de>
 
 RUN apt-get update
